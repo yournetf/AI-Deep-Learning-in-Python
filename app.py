@@ -13,3 +13,13 @@ second = input("Enter the second number here: \n")
 sum = int(first) + int(second)
 
 print("The sum of your inputs is: \n" + str(sum))
+
+
+##String manipulation
+phrase = "Python for beginnners"
+phrase = phrase.replace("for", "4")
+phrase = phrase.upper()
+print(phrase);
+
+
+
