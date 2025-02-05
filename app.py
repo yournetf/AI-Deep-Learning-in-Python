@@ -19,7 +19,7 @@ print("The sum of your inputs is: \n" + str(sum))
 phrase = "Python for beginnners"
 phrase = phrase.replace("for", "4")
 phrase = phrase.upper()
-print(phrase);
+print(phrase)
 
 
 
